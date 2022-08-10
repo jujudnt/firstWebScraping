@@ -1,5 +1,7 @@
 # Premier web scraping node js
-
+https://www.twilio.com/blog/web-scraping-and-parsing-html-in-node-js-with-jsdom
+https://www.twilio.com/blog/4-outils-web-scraping-node-js
+https://www.twilio.com/blog/automated-headless-browser-scripting-in-node-js-with-playwright
 # Toutes les commandes listées ici pour l'installation
 
 # init project node
